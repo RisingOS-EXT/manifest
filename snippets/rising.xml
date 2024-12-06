@@ -25,6 +25,10 @@
            sync-j="4"
            revision="refs/heads/15.0" />
 
+  <remote name="devices"
+          fetch="https://github.com/RisingTechOSS-Devices/"
+          revision="fifteen" />
+
   <!-- RisingOS Overrides -->
   <!-- Android Manifest  -->
   <remove-project path="android" />
