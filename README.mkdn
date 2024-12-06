@@ -210,7 +210,7 @@ Credits
 * [**AICP**](https://github.com/AICP)
 * [**Bootleggers**](https://github.com/BootleggersROM)
 * [**crDroid**](https://github.com/crdroidandroid)
-* [**Corvus-AOSP**](https://github.com/Corvus-R)
+* [**Corvus-AOSP**](https://github.com/Corvus-AOSP)
 * [**Derpfest**](https://github.com/Derpfest-12)
 * [**DotOS**](https://github.com/DotOS)
 * [**Evolution-X**](https://github.com/Evolution-X)
